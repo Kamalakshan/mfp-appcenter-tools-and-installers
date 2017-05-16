@@ -1,2 +1,2 @@
 # mfp-appcenter-tools-and-installers
-Contains Installers (Client side) for installing the app's and also contains the Application Center Command line tools for uploading and deleting the apps on Application Center
+Contains Installers (Client side) for installing the apps on device and also contains the IBM MFP Application Center Command line tools for uploading and deleting the apps in Application Center
